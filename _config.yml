@@ -11,7 +11,10 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.7947512404061854
-name: Let´s build "The New Now"
-navigation: []
+name: 'We are our Time. If we are good, the Times are good'
+navigation:
+  - name: The Mission
+    url: thegrid.ai/integreator/mission
+    type: external
 title: integreator
 description: smart pure clear
