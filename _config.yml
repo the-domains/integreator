@@ -12,12 +12,6 @@ color:
     - '#253237'
 layout_spectrum: 0.7947512404061854
 name: Let´s build "The New Now"
-navigation:
-  - name: Illustration
-    id: 63e578a4-760d-44ea-b69b-9bcfc3395d4b
-    type: content
-  - name: 'Super stylli: our pick of the finest (and most stylish) smart-pens.'
-    id: 23516984-56ae-4de9-bc93-f7f674a0741a
-    type: content
+navigation: []
 title: integreator
 description: smart pure clear
