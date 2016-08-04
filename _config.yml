@@ -19,5 +19,8 @@ navigation:
   - name: Portfolio
     url: thegrid.ai/integreator/portfolio
     type: external
+  - name: Vita
+    url: thegrid.ai/integreator/vita
+    type: external
 title: integreator
 description: smart pure clear
