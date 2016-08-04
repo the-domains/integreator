@@ -22,5 +22,8 @@ navigation:
   - name: Vita
     url: thegrid.ai/integreator/vita
     type: external
+  - name: Meetingroom
+    url: thegrid.ai/integreator/meetingroom
+    type: external
 title: integreator
 description: smart pure clear
