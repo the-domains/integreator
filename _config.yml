@@ -1,0 +1,14 @@
+layout_spectrum: 0.7947512404061854
+typography_spectrum: 0.17620668816380203
+color:
+  brandStrength: 0.982714960584417
+  lightness: 0.3420770834200084
+  saturation: 0.8201016958337277
+  rhythmicContrast: 0.47686447435989976
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#F70037'
+    - '#C8FF30'
+    - '#7F1F5E'
+name: integreator
