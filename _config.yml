@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.7947512404061854
 name: integreator
+navigation:
+  - name: Illustration
+    id: 63e578a4-760d-44ea-b69b-9bcfc3395d4b
+    type: content
 title: integreator
 description: smart pure clear
