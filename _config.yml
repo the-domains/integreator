@@ -16,5 +16,8 @@ navigation:
   - name: The Mission
     url: thegrid.ai/integreator/mission
     type: external
+  - name: Portfolio
+    url: thegrid.ai/integreator/portfolio
+    type: external
 title: integreator
 description: smart pure clear
